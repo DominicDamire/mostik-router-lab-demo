@@ -1,0 +1,18 @@
+test_chain_end_and_unknown_do_not_switch (test_promote.PromotionTests.test_chain_end_and_unknown_do_not_switch) ... ok
+test_corrupt_counter_recovers (test_promote.PromotionTests.test_corrupt_counter_recovers) ... ok
+test_disabled_has_no_side_effects (test_promote.PromotionTests.test_disabled_has_no_side_effects) ... ok
+test_emergency_has_no_side_effects (test_promote.PromotionTests.test_emergency_has_no_side_effects) ... ok
+test_failed_restart_returns_failure (test_promote.PromotionTests.test_failed_restart_returns_failure) ... ok
+test_failed_switch_preserves_protocol_and_retries (test_promote.PromotionTests.test_failed_switch_preserves_protocol_and_retries) ... ok
+test_first_tick_only_restarts (test_promote.PromotionTests.test_first_tick_only_restarts) ... ok
+test_full_chain (test_promote.PromotionTests.test_full_chain) ... ok
+test_large_counter_does_not_overflow (test_promote.PromotionTests.test_large_counter_does_not_overflow) ... ok
+test_lock_contention_has_no_side_effects (test_promote.PromotionTests.test_lock_contention_has_no_side_effects) ... ok
+test_missing_sing_box_skips_unsupported_protocols (test_promote.PromotionTests.test_missing_sing_box_skips_unsupported_protocols) ... ok
+test_missing_switch_does_not_record_success (test_promote.PromotionTests.test_missing_switch_does_not_record_success) ... ok
+test_second_tick_promotes_and_resets (test_promote.PromotionTests.test_second_tick_promotes_and_resets) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 8.962s
+
+OK
